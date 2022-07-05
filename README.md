@@ -11,7 +11,6 @@
   - Hynix Gold P31 
   - SAPPHIRE RX6600
   - BCM943602CS
-  - 
 
 ### Precautions for use
 ***
