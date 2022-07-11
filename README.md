@@ -1,4 +1,4 @@
-## AlderLake-B660M-Hackintosh
+## AlderLake-B660M-Opencore-Hackintosh
 ***
 ![INFO](./s/INFO.png)
 ![12CHECK](./s/12Check.png)
